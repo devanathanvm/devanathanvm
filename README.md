@@ -1,4 +1,4 @@
-#👋Hi There Im Devanathan V
+👋Hi There I'm **Devanathan V**
 
 Building at the intersection of **Finance, Data, and Technology**
 I am focused on understanding **how capital is allocated, priced, and optimized**  
