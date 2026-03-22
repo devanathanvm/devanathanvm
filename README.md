@@ -3,7 +3,7 @@
 Building at the intersection of **Finance, Data, and Technology**
 
 MBA (Finance) @ Shiv Nadar University  
-CFA Level 1 Candidate (Feb 2026)  
+CFA Level 1 Candidate
 Incoming Fidelity International | Ex-Investment Intern @ Kairne Capital  
 
 ---
@@ -20,7 +20,7 @@ I try to **build with it, test it, and apply it**.
 ## ⚙️ What I Actually Do
 
 - Analyze businesses → **Equity Research & Valuation**
-- Build models → **3-Statement Models, DCF, Scenario Analysis**
+- Build models → **3-Statement Models, DCF, Scenario Analysis, Time Series and other Quant Models like Option Pricing**
 - Work with data → **Python, SQL, Financial datasets**
 - Experiment with systems → **Dashboards, apps, analytics tools**
 
@@ -44,7 +44,6 @@ Built a system to analyze portfolios beyond returns:
 - Risk metrics: Sharpe, Sortino, VaR, CVaR  
 - Stress testing (2008, COVID scenarios)  
 
-→ Goal: Move from *“what performed”* to *“why it performed”*
 
 ---
 
@@ -55,8 +54,6 @@ Companies: Mahindra & Mahindra, Polycab, Varun Beverages
 - Estimated intrinsic value using DCF  
 - Analyzed industry structure and drivers  
 - Wrote structured investment theses  
-
-→ Goal: Develop **decision-quality analysis**, not just reports  
 
 ---
 
@@ -73,7 +70,8 @@ Companies: Mahindra & Mahindra, Polycab, Varun Beverages
 #### Workout Tracker (Web + APK)
 - Built using AI tools (ChatGPT + Claude)  
 - Designed full UI + tracking logic  
-- Explored product thinking & deployment  
+- Explored product thinking & deployment
+- Tech Stack and Tools : Vercel, Supabase, Github Android Studio, HTML, Java.
 
 → Not a fitness project — a **learning experiment in building systems**
 
@@ -85,7 +83,7 @@ Companies: Mahindra & Mahindra, Polycab, Varun Beverages
 Financial Modeling | Valuation | Equity Research | WACC | Ratio Analysis  
 
 **Technical**  
-Python (pandas, NumPy, Streamlit) | SQL  
+Python (pandas, NumPy, Streamlit) | SQL  | R Programming
 
 **Tools**  
 Excel (Advanced + VBA) | Power BI | Tableau | Bloomberg | Capital IQ  
