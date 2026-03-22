@@ -1,22 +1,14 @@
 #Hi There Im Devanathan V
 Building at the intersection of **Finance, Data, and Technology**
-
-Professional backgroud
----
-MBA (Finance) @ Shiv Nadar University  
-CFA Level 1 Candidate
-Incoming Fidelity International | Ex-Investment Intern @ Kairne Capital  
-
----
-
-## 🧭 My Direction
 I am focused on understanding **how capital is allocated, priced, and optimized** —  
 and using **data + technology to improve that process**.
-
 I don’t just study finance.  
 I try to **build with it, test it, and apply it**.
 
+Professional backgroud
 ---
+MBA (Finance) @ Shiv Nadar University | CFA Level 1 Candidate
+Incoming Fidelity International | Ex-Investment Intern @ Kairne Capital  
 
 ## ⚙️ What I Actually Do
 
